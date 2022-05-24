@@ -6,10 +6,10 @@
 
 ### Технологии в проекте 
 - HTML
-- CSS
+- CSS (SCSS)
 - Js
 - Adaptive layout
 
 В проекте реализованы модули Radio Player Audio Player и  Video Player
 
-Ссылка проекта https://vlasukalyona.github.io/IPhone13/
+Ссылка проекта https://vlasukalyona.github.io/iTunes/
